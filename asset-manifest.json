@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-hw-07-phonebook-modified-for-render-com-three/static/css/main.7acaea2f.css",
-    "main.js": "/react-hw-07-phonebook-modified-for-render-com-three/static/js/main.07d3183d.js",
+    "main.css": "/react-hw-07-phonebook-modified-for-render-com-three/static/css/main.e294d8cf.css",
+    "main.js": "/react-hw-07-phonebook-modified-for-render-com-three/static/js/main.48cfa631.js",
     "index.html": "/react-hw-07-phonebook-modified-for-render-com-three/index.html",
-    "main.7acaea2f.css.map": "/react-hw-07-phonebook-modified-for-render-com-three/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-hw-07-phonebook-modified-for-render-com-three/static/js/main.07d3183d.js.map"
+    "main.e294d8cf.css.map": "/react-hw-07-phonebook-modified-for-render-com-three/static/css/main.e294d8cf.css.map",
+    "main.48cfa631.js.map": "/react-hw-07-phonebook-modified-for-render-com-three/static/js/main.48cfa631.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.e294d8cf.css",
+    "static/js/main.48cfa631.js"
   ]
 }
